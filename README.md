@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitGem](https://gitgem.org/api/badge/github/SuperAB123/Free-Official-Youtube-Content.svg)](https://gitgem.org/github/SuperAB123/Free-Official-Youtube-Content)
 
 <!--
 **SuperAB123/SuperAb123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
